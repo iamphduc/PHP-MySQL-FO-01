@@ -11,7 +11,7 @@
 			if ($c == 0) {
 				echo "Phuong trinh vo so nghiem";
 			} else {
-				$x = -$c;
+				echo "Phuong trinh vo nghiem";
 			}
 		} else {
 			$x = -$c/$b;
