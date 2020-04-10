@@ -1,4 +1,7 @@
 <?php
+// Video demo
+// https://drive.google.com/open?id=1cM3kI3Ev6xnNVmaRRtz0SsOfdKrDM3tE 
+
 // Thong so ket noi CSDL
 $servername = "localhost"; // Dia chi IP cua may chua CSDL
 
